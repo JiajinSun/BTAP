@@ -5,7 +5,7 @@ This folder contains code and outputs for the simulation studies and data analys
 "Bridging Theory and Practice: Statistical Inference of Latent Space Models for Networks".
 
 ## Working Directory Requirement
-Set the working directory to `BTAP` before running any script in this project.
+Set the working directory to `BTAP` before running any script in this project. If you download the whole project, the folder's name should be `BTAP-main`. Change it to `BTAP`.
 Example: `getwd()` should return the full path of the `BTAP` folder.
 
 ## Repository Structure
