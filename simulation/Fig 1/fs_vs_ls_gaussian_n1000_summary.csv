@@ -1,0 +1,5 @@
+"seed","n","k","family","method","eta0","eta_mult","eta_label","eta_init","eta_times_n","eps_grad","max_gd_steps","beta_ls","c_ls","Rprime","num_steps","converged","exploded","error_message","bt_mean","bt_max","bt_frac0","ls_fail_frac"
+123,1000,2,"gaussian","fixed",5e-04,10,"10*eta0",0.005,5,0.01,2000,0.5,1,0,13,0,1,"non-finite score",NA,NA,NA,NA
+123,1000,2,"gaussian","linesearch",5e-04,10,"10*eta0",0.005,5,0.01,2000,0.5,1,7,61,1,0,"",3,3,0,0
+123,1000,2,"gaussian","fixed",5e-04,5,"5*eta0",0.0025,2.5,0.01,2000,0.5,1,0,17,0,1,"non-finite score",NA,NA,NA,NA
+123,1000,2,"gaussian","linesearch",5e-04,5,"5*eta0",0.0025,2.5,0.01,2000,0.5,1,7,61,1,0,"",2,2,0,0
